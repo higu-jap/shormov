@@ -1,25 +1,3 @@
-<!DOCTYPE html>
-<html lang="ja">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>ショート動画制作ならお任せ！</title>
-  <style>
-    body { font-family: 'Helvetica Neue', sans-serif; margin: 0; padding: 0; line-height: 1.6; color: #333; }
-    header { background: #000; color: #fff; padding: 60px 20px; text-align: center; }
-    header h1 { font-size: 2.5em; margin-bottom: 0.2em; }
-    header p { font-size: 1.2em; }
-    section { padding: 40px 20px; max-width: 1000px; margin: auto; }
-    .features { display: flex; flex-wrap: wrap; gap: 20px; }
-    .feature { flex: 1; min-width: 280px; background: #f5f5f5; padding: 20px; border-radius: 8px; }
-    .cta { text-align: center; background: #f0e400; padding: 40px 20px; }
-    .cta h2 { font-size: 2em; margin-bottom: 0.5em; }
-    .cta a { background: #000; color: #fff; padding: 15px 30px; border-radius: 30px; text-decoration: none; font-weight: bold; }
-    footer { text-align: center; padding: 20px; background: #eee; font-size: 0.9em; }
-  </style>
-</head>
-<body>
-
 <header>
   <h1>ショート動画制作で、あなたのビジネスをバズらせる！</h1>
   <p>企画・撮影・編集まですべてお任せ。SNSで映えるショート動画をプロが制作！</p>
